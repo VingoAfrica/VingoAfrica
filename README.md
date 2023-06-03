@@ -1,7 +1,7 @@
 # Hello-Makadini-Sawubona 👋, Welcome to Vingo Africa
 
 We are an African technology business whose mission is to digitally preserve Great Zimbabwe's past greatness. 
-We are working on a number of digital solutions for the financial technology, real estate, farming, e-commerce, and logistics sectors.
+We are working on a number of digital solutions for the financial technology, real estate, farming, e-commerce, tourism, and logistics sectors.
 
 We are mortarless yet stronger together!
 #fromVingo #shumelaAfrica
