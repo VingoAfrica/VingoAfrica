@@ -26,20 +26,16 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
  [![Spotify](https://spotify-now-playing-delta-lac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31bh7frg45vu22kmdwqdvw3hgyxa)
 
-### Upcoming Projects (Sneak Peek) 🧑‍💻🤖👷
+### Current Project (Sneak Peek) 🧑‍💻🤖👷
 
 <table>
   <tr>
-    <td><a href="https://twitter.com/siliconMutapa/status/1647307138170081280?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Earground-Mobile-App' title='Earground-Mobile-App'></a></td>
-    <td><a href="https://twitter.com/siliconMutapa/status/1647419555528966146?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MpesaApp(Clone).png' alt='Mpesa-Mobile-App(clone)' title='Mpesa-Mobile-App(clone)'></a></td>
+    <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Dwala App' title='Dwala App'></td>
+    <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MpesaApp(Clone).png' alt='Dwala App' title='Dwala App'></td>
   </tr>
  
  <tr>
- <td><a href="https://twitter.com/siliconMutapa/status/1648994243757723648?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MJMLeatherwareApp.png' alt='MJM-Leatherware-Mobile-App' title='MJM-Leatherware-Mobile-App'></a></td>
-  <td><a href="https://twitter.com/siliconMutapa/status/1649032421411569669?s=20" target="_blank"><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/VamboAcademyApp.png' alt='Vambo-Academy-Mobile-App' title='Vambo-Academy-Mobile-App'></a></td>
+ <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MJMLeatherwareApp.png' alt='Dwala App' title='Dwala App'></td>
+  <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/VamboAcademyApp.png' alt='Dwala App' title='Dwala App'></td>
  </tr>
- 
- <tr>
-  <td colspan="2"><a href="https://twitter.com/siliconMutapa/status/1649637211040612358?s=20" target="_blank"><img src='https://pbs.twimg.com/media/FuSvZeYXgAMsn_L?format=jpg&name=4096x4096' alt='ZimSwitch-Mobile-App' title='ZimSwitch-Mobile-App'></a></td>
- </tr>
- </table>
+</table>
