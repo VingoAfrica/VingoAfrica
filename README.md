@@ -15,8 +15,7 @@ We are mortarless yet stronger together! 🐆🇿🇼🦾
 - 📫 How to reach us: vingoafrica@gmail.com
 - ⚡ Fun fact: The name Vingo is derived form the name of the city of Masvingo, which is home to Great Zimbabwe
 
-![<img src='https://pbs.twimg.com/media/Fv5-xozXoAAIyLQ?format=jpg&name=4096x4096' alt='Welcome-To-The-Kingdom_of-Zimbabawe'>]
-
+<img src='https://pbs.twimg.com/media/Fv5-xozXoAAIyLQ?format=jpg&name=4096x4096' alt='Welcome-To-The-Kingdom_of-Zimbabawe'>
 
 ### Playing on Spotify 🎧
 
