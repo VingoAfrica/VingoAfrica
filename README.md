@@ -8,17 +8,14 @@ We refer to our community members as Cheetahs, become a [<span>Cheetah</span>](h
 
 We are mortarless yet stronger together! 🐆🇿🇼🦾
 
-#siliconMutapa #fromVingo #Cheetahs
+#fromVingo #shumelaAfrica
+ 
 
-### Skills && Content
+- 🔭 We are currently working on the Dwala App, Vingo Africa's main Flagship
+- 📫 How to reach us: vingoafrica@gmail.com
+- ⚡ Fun fact: The name Vingo is derived form the name of the city of Masvingo, which is home to Great Zimbabwe
 
-Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Native / Flutter / Python / IoT 
-
-- 🔭 We are currently working on the [<span>Earground</span>](https://earground.com/) Mobile Application (Unofficial Project)
-- 📫 How to reach us: siliconMutapa@gmail.com 
-- ⚡ Fun fact: Cheetahs thrive whilst working independently or as part of a group. They are task-focused and always pay close attention to detail. They are adventurous and love trying new experiences. Cheetahs often attempt to find their own solution to a problem before seeking assistance. 
-
-[<img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/JoinUs.png' alt='Become-A-Cheetah'>](https://twitter.com/siliconMutapa) 
+[<img src='https://pbs.twimg.com/media/Fv5-xozXoAAIyLQ?format=jpg&name=4096x4096g' alt='Welcome-To-The-Kingdom_of-Zimbabawe'>]
 
 
 ### Playing on Spotify 🎧
@@ -34,7 +31,7 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
   </tr>
  
  <tr>
- <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MJMLeatherwareApp.png' alt='Dwala App' title='Dwala App'></td>
-  <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/VamboAcademyApp.png' alt='Dwala App' title='Dwala App'></td>
+ <td><img src='https://pbs.twimg.com/media/FxOD-tVWwAcCiWY?format=jpg&name=4096x4096' alt='Dwala App' title='Dwala App'></td>
+  <td><img src='https://pbs.twimg.com/media/FwZCN3QaIAUfBRH?format=jpg&name=4096x4096' alt='Dwala App' title='Dwala App'></td>
  </tr>
 </table>
