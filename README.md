@@ -30,8 +30,8 @@ Figma / ProtoPie / MERN / MEAN / DevOps / Android (Kotlin/Java) / iOS / React Na
 
 <table>
   <tr>
-    <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/EargroundApp.png' alt='Dwala App' title='Dwala App'></td>
-    <td><img src='https://github.com/siliconMutapa/siliconMutapa/blob/main/MpesaApp(Clone).png' alt='Dwala App' title='Dwala App'></td>
+    <td><img src='https://github.com/VingoAfrica/VingoAfrica/blob/main/g3533.png' alt='Dwala App' title='Dwala App'></td>
+    <td><img src='https://github.com/VingoAfrica/VingoAfrica/blob/main/g9329.png' alt='Dwala App' title='Dwala App'></td>
   </tr>
  
  <tr>
