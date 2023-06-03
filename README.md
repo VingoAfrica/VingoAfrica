@@ -1,4 +1,4 @@
-# Hello-Makadini-Sawubona 👋, Welcome to Silicon Mutapa
+# Hello-Makadini-Sawubona 👋, Welcome to Vingo Africa
 ## UI/UX Design and Software Development 
 ![UI/UX Design and Software Development ](https://github.com/siliconMutapa/siliconMutapa/blob/main/GitHubBanner.png)
 
