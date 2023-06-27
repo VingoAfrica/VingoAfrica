@@ -12,10 +12,6 @@ We are mortarless yet stronger together!
 
 <img src='https://pbs.twimg.com/media/Fv5-xozXoAAIyLQ?format=jpg&name=4096x4096' alt='Welcome-To-The-Kingdom_of-Zimbabawe'>
 
-### Playing on Spotify 🎧
-
- [![Spotify](https://spotify-now-playing-delta-lac.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31bh7frg45vu22kmdwqdvw3hgyxa)
-
 ### Current Project (Sneak Peek) 🧑‍💻🤖👷
 
 <table>
